@@ -1,0 +1,6 @@
+{
+  "name": "Word Craft",
+  "description": "An engaging and modern Word Puzzle Game where players click letters inside a stylish wheel to assemble hidden word combinations, track levels, scores, and unlock achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

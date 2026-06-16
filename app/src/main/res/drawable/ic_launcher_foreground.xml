@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Star elements represent spelling achievements -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,16 l3,6 l6,3 l-6,3 l-3,6 l-3,-6 l-6,-3 l6,-3 z" />
+    
+    <!-- Main spinning speller wheel line -->
+    <path
+        android:strokeWidth="3.5"
+        android:strokeColor="#06B6D4"
+        android:fillColor="#00000000"
+        android:pathData="M54,54 m-24,0 a24,24 0 1,1 48,0 a24,24 0 1,1 -48,0" />
+    
+    <!-- Outer letters vertex connectors -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M54,30 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M30,54 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M78,54 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M54,78 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    
+    <!-- Stylized central 'W' signature path representing Word Craft -->
+    <path
+        android:strokeWidth="3"
+        android:strokeColor="#F59E0B"
+        android:fillColor="#00000000"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M43,47 L48,61 L54,50 L60,61 L65,47" />
+</vector>
